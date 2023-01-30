@@ -10,5 +10,5 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=leduytuanvu&show_icons=true" />
-</picture>,
+</picture>;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leduytuanvu&layout=compact)](https://github.com/leduytuanvu/leduytuanvu),
