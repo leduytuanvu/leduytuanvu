@@ -39,7 +39,7 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leduytuanvu&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leduytuanvu&layout=compact&theme=vision-friendly-dark)]
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<h2>🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
