@@ -37,12 +37,7 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leduytuanvu&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leduytuanvu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- Trungquandev -->
-<a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leduytuanvu&layout=compact&theme=vision-friendly-dark)]
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
