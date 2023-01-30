@@ -12,10 +12,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=leduytuanvu&style=flat-square&color=blue" alt=""/>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<img align="center" src="https://komarev.com/ghpvc/?username=leduytuanvu&style=flat-square&color=blue" alt=""/>
 ---
 
 ### :woman_technologist: About Me :
