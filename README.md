@@ -11,8 +11,6 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 - ---
 
 ### :hammer_and_wrench: Languages and Tools :
