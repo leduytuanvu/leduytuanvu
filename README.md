@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://lh3.googleusercontent.com/a/AEdFTp4ni_C0L7l8l7Xkc0Nj0X0OFYzG5mieWe32iBN7pw=s288-p-rw-no" width="300"/>
-</div>
+</div> 
+
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,10 +13,11 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
 <div id="bottomheader" align="center">
   <img src="https://komarev.com/ghpvc/?username=leduytuanvu&style=flat-square&color=blue" alt=""/>
 </div>
----
+
 
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
