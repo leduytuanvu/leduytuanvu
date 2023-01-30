@@ -1,5 +1,3 @@
-Generates a snake game from a github user contributions graph
-
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 Pull a github user's contribution graph.
