@@ -7,7 +7,7 @@ I am a Mobile Developer from Vietnam. I graduated from FPT University in 2022 <i
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles. My hobbies are fishing, mechanical keyboards, cars and technology.
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles. My hobbies are fishing, keyboards, and technology.
 
 <br>
 
